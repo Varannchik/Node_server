@@ -1,0 +1,15 @@
+{
+  "name": "node_serve",
+  "version": "1.0.0",
+  "description": "my server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/Varannchik/Node_server.git"
+  },
+  "author": "Anna",
+  "license": "MIT"
+}
